@@ -9,10 +9,18 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 ## Front end
 
 -   [freefrontend](https://freefrontend.com) frontend sniptts collection `html, css, js, vuejs...etc`
+-   [codeaway](https://www.codeaway.io/) Improve your technical skills by building real-world projects with the stack you want to use.
+-   [30secondsofcode](https://www.30secondsofcode.org/)
+-   [Improve how you architect webapps](https://www.patterns.dev/)
+
+
 
 ### packages
 
 -   [Storybook is a frontend workshop for building UI components](https://storybook.js.org/)
+-   [PatternFly Elements](https://patternflyelements.org/) A set of community-created web components based on PatternFly design.
+
+
 
 ### animation
 
@@ -54,9 +62,12 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 
 ## Backend
 
-## api
+### api
 
--   [restfulapi](https://restfulapi.net/) REST API Tutorial ⭐
+- [restfulapi](https://restfulapi.net/) REST API Tutorial ⭐
+- [Understanding APIs redhat](https://www.redhat.com/en/topics/api)
+- [API security best practices](https://www.bearer.com/blog/api-security-best-practices)
+
 
 ### php
 
@@ -75,6 +86,7 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 -   [Leaf API](https://api.leafphp.dev/) A minimal but powerful MVC API framework
 
 ### Laravel
+- [streaming in the Laravel world.](https://larastreamers.com/)
 
 #### Packages
 
