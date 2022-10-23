@@ -49,8 +49,37 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 
 ---
 
+
+
+
 ## Backend
-### packages
+
+## api
+- [restfulapi](https://restfulapi.net/) REST API Tutorial ⭐
+
+
+### php
+- [php the right way](https://phptherightway.com/)
+- [phpenthusiast](https://phpenthusiast.com/) learn, Practice, and Apply Object-oriented PHP
+- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+- [PECL](https://pecl.php.net/) repository for PHP Extensions
+- [Rector](https://github.com/rectorphp/rector) Instant Upgrades and Automated Refactoring
+
+
+
+#### packages
+- [Pest](https://pestphp.com/) An elegant PHP Testing Framework ⭐
+
+#### frameworks
+- [Leaf API](https://api.leafphp.dev/)  A minimal but powerful MVC API framework
+
+### Laravel
+#### Packages 
+
+##### admin panel
+- [filamentphp](https://filamentphp.com/) `Admin Panel, Form Builder, Table Builder, Notifications...etc`
+- [orchid](https://orchid.software/en/)
+- [voyager](https://voyager.devdojo.com/)
 
 
 
