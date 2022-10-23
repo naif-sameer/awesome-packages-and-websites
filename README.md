@@ -73,8 +73,12 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 #### frameworks
 - [Leaf API](https://api.leafphp.dev/)  A minimal but powerful MVC API framework
 
+
+
 ### Laravel
 #### Packages 
+
+- [splade](https://splade.dev/) The magic of Inertia.js with the simplicity of Blade
 
 ##### admin panel
 - [filamentphp](https://filamentphp.com/) `Admin Panel, Form Builder, Table Builder, Notifications...etc`
