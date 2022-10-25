@@ -119,4 +119,5 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 -   [algolia The best Search and Discovery Platform for your business](https://www.algolia.com/)
 -   [Build anything in components](https://bit.dev/)
 -   [Create GitHub Resource Download Link](https://downgit.github.io/#/home)
+-   [zeitverschiebung](https://www.zeitverschiebung.net/en/) Time Zone `Converter (Time Difference Calculator), search`
 
